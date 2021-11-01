@@ -1,0 +1,52 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 24 Oct 2021 09:55:19 at https://smkm1surabaya.sch.id/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwr10%e0C2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A75000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://smkm1surabaya.sch.id/ -O1 "C:\My Web Sites\TUGAS 1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:55:22	Warning: 	Note: due to https://smkm1surabaya.sch.id remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/, /wp-content/uploads/wpo-plugins-tables-list.json (see in the options to disable this)
+09:55:49	Error: 	"Not Found" (404) at link https://smkm1surabaya.sch.id/tkj-samsung-tech-insitute/ (from https://smkm1surabaya.sch.id/)
+09:56:40	Warning: 	Moved Permanently for https://smkm1surabaya.sch.id/?p=1528
+09:56:40	Warning: 	File has moved from https://smkm1surabaya.sch.id/?p=1528 to https://smkm1surabaya.sch.id/data-alumni-smk-muhammadiyah-1-surabaya/
+09:56:40	Warning: 	Moved Permanently for https://smkm1surabaya.sch.id/?p=1774
+09:56:40	Warning: 	File has moved from https://smkm1surabaya.sch.id/?p=1774 to https://smkm1surabaya.sch.id/meetville-aggiornato-iphone-ipad-applicazione/
+09:56:40	Error: 	"Method Not Allowed" (405) at link https://smkm1surabaya.sch.id/xmlrpc.php (from https://smkm1surabaya.sch.id/meetville-aggiornato-iphone-ipad-applicazione/)
+09:57:03	Warning: 	Moved Permanently for https://smkm1surabaya.sch.id/?p=1769
+09:57:03	Warning: 	File has moved from https://smkm1surabaya.sch.id/?p=1769 to https://smkm1surabaya.sch.id/smk-mutu-surabaya-lakukan-workshop-sinkronisasi-kurikulum-dengan-iduka/
+09:57:14	Warning: 	Moved Permanently for https://smkm1surabaya.sch.id/?p=1766
+09:57:14	Warning: 	File has moved from https://smkm1surabaya.sch.id/?p=1766 to https://smkm1surabaya.sch.id/door-county-wisconsin-schoner-urlaub-fur-weinliebhaber-paare-im-innerhalb-innerhalb-innerhalb-wahrend-fur-in-in-das-aus-dem-wenn-sie-den-mittleren-westen-betrachten/
+09:57:14	Warning: 	Moved Permanently for https://smkm1surabaya.sch.id/?p=1762
+09:57:14	Warning: 	File has moved from https://smkm1surabaya.sch.id/?p=1762 to https://smkm1surabaya.sch.id/membanggakan-siswa-smk-muhammadiyah-1-surabaya-raih-juara-lomba-video-kreatif/
+09:57:14	Warning: 	Moved Permanently for https://smkm1surabaya.sch.id/?p=1750
+09:57:14	Warning: 	File has moved from https://smkm1surabaya.sch.id/?p=1750 to https://smkm1surabaya.sch.id/jelang-tatap-muka-smk-muhammadiyah-1-surabaya-lakukan-vaksinasi-dosis-1-dari-puskesmas-tambak-rejo/
+09:57:23	Warning: 	Moved Permanently for https://smkm1surabaya.sch.id/?p=366
+09:57:23	Warning: 	File has moved from https://smkm1surabaya.sch.id/?p=366 to https://smkm1surabaya.sch.id/contact-us/
+09:57:23	Warning: 	Link https://smkm1surabaya.sch.id/category/pemberitahuan/page/2/ not scanned (follow robots meta tag)
+09:58:01	Warning: 	Link https://smkm1surabaya.sch.id/category/pemberitahuan/page/7/ not scanned (follow robots meta tag)
+09:58:01	Warning: 	Link https://smkm1surabaya.sch.id/author/smkm1sby/page/2/ not scanned (follow robots meta tag)
+09:58:01	Warning: 	Link https://smkm1surabaya.sch.id/author/smkm1sby/page/7/ not scanned (follow robots meta tag)
+09:58:05	Warning: 	Moved Permanently for https://smkm1surabaya.sch.id/?p=1745
+09:58:05	Warning: 	File has moved from https://smkm1surabaya.sch.id/?p=1745 to https://smkm1surabaya.sch.id/smk-muhammadiyah-1-surabaya-gandeng-its-kembangkan-kualitas-alat-praktek-terstandarisasi-industri/
+09:58:05	Warning: 	Moved Permanently for https://smkm1surabaya.sch.id/?p=1741
+09:58:05	Warning: 	File has moved from https://smkm1surabaya.sch.id/?p=1741 to https://smkm1surabaya.sch.id/ikutkan-kader-wirausaha-millenial-dalam-training-wirausaha-smk-di-era-new-normal-smk-muhammadiyah-1-surabaya-dapat-manfaat-istimewa/
+09:58:05	Warning: 	Moved Permanently for https://smkm1surabaya.sch.id/?p=1736
+09:58:05	Warning: 	File has moved from https://smkm1surabaya.sch.id/?p=1736 to https://smkm1surabaya.sch.id/kader-wirausaha-muda-smk-mutu-surabaya-lakukan-upgrading-di-seminar-nasional-kewirausahaan/
+09:58:05	Warning: 	Moved Permanently for https://smkm1surabaya.sch.id/?p=1733
+09:58:05	Warning: 	File has moved from https://smkm1surabaya.sch.id/?p=1733 to https://smkm1surabaya.sch.id/smk-mutu-surabaya-teken-mou-dengan-22-perusahan-ternama/
+09:58:05	Warning: 	Moved Permanently for https://smkm1surabaya.sch.id/?p=1730
+09:58:05	Warning: 	File has moved from https://smkm1surabaya.sch.id/?p=1730 to https://smkm1surabaya.sch.id/berantas-buta-huruf-quran-ismuba-smk-mutu-surabaya-mou-dengan-tim-tadjid-pwm-jawa-timur/
+09:58:13	Warning: 	Moved Permanently for https://smkm1surabaya.sch.id/?p=1726
+09:58:13	Warning: 	File has moved from https://smkm1surabaya.sch.id/?p=1726 to https://smkm1surabaya.sch.id/smk-mutu-surabaya-ikutkan-siswa-di-webinar-pendidikan-milenial-anti-narkoba-sekaligus-bentuk-kader-anti-narkoba/
+09:58:22	Warning: 	Moved Permanently for https://smkm1surabaya.sch.id/?p=1722
+09:58:22	Warning: 	File has moved from https://smkm1surabaya.sch.id/?p=1722 to https://smkm1surabaya.sch.id/smk-muhammadiyah-1-surabaya-lakukan-pemetaan-bakat-dan-minat-siswa/
+09:58:33	Warning: 	Moved Permanently for https://smkm1surabaya.sch.id/?p=1718
+09:58:33	Warning: 	File has moved from https://smkm1surabaya.sch.id/?p=1718 to https://smkm1surabaya.sch.id/wujud-sekolah-keunggulan-smkm1-surabaya-bangun-gedung-teaching-factory-berstandar-industri/
+09:58:42	Warning: 	Moved Permanently for https://smkm1surabaya.sch.id/?p=1714
+09:58:42	Warning: 	File has moved from https://smkm1surabaya.sch.id/?p=1714 to https://smkm1surabaya.sch.id/tim-ismuba-smk-mutu-surabaya-lakukan-diagnosa-baca-tulis-al-quran-siswa-baru/
+09:58:51	Warning: 	Moved Permanently for https://smkm1surabaya.sch.id/?p=1710
+09:58:51	Warning: 	File has moved from https://smkm1surabaya.sch.id/?p=1710 to https://smkm1surabaya.sch.id/semarakkan-hut-ri-76-tahun-smk-muhammadiyah-1-surabaya-adakan-lomba-kemerdekaan-secara-virtual/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 32 seconds : 228 links scanned, 208 files written (11704057 bytes overall) [9979333 bytes received at 47072 bytes/sec], 2499276 bytes transferred using HTTP compression in 59 files, ratio 23%, 3.6 requests per connection
+(2 errors, 39 warnings, 0 messages)
